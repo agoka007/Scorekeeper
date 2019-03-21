@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soccer</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score">Score</string>
+    <string name="yellow_card">Yellow card</string>
+    <string name="red_card">Red card</string>
+    <string name="reser_button">Reset</string>
+</resources>
